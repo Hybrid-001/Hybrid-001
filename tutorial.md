@@ -92,6 +92,62 @@ zones away.
 
 You can even open pull requests in your own repository and merge them yourself. It's a great way to learn the GitHub flow before working on larger projects.
 
+Click the Pull Requests tab of your hello-world repository.
+
+Click New pull request 
+
+In the Example Comparisons box, select the branch you made, readme-edits, to compare with main (the orginal)
+
+
+Look over your changes in the diffs on the Compare page, make sure they're what you want to submit.
+
+Click Create pull request.
+
+
+Give your pull request a title and write a brief description of your changes. You can include emojis and drag and drop images and gifs
+
+
+Your collaborators can now review your edits and make suggestions.
+
+
+Merging your pull request
+
+In this final step, you wil merge your readme-edits branch into the main branch.
+
+Click Merge pull request to merge the changes into main.
+
+Click Confirm merge.
+
+Go ahead and delete the branch, since its changes have been incorporated, by clicking Delete Branch.
+
+
+
+Next steps 
+
+By completing this tutorial, you've learned to created a project and make a pull request on GitHub.
+
+
+Here's what you accompished in this tutorial:
+
+
+Created an open source repository 
+
+Started and managed a new branch
+
+
+Changed a file and commited those changes to GitHub.
+
+Opened and merged a pull request 
+
+Take a look at your GitHub profile and you'll see your work reflected on your contribution graph.
+
+For more information about the power of branches and pull requests, see "GitHub flow". For more information about getting started with GutHub, see the 
+other guides in the getting started quickstart.
+
+
+
+
+
 
 
 
