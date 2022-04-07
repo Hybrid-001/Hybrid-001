@@ -1,0 +1,3 @@
+[submodule "hybrid_submodule"]
+	path = hybrid_submodule
+	url = git@github.com:Hybrid-001/hybrid_submodule.git
