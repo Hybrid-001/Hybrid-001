@@ -117,7 +117,13 @@ $ git submodule update --init --recursive
 
 
     If you want to see more, visit : https://git-scm.com/book/en/v2/Git-Tools-Submodules#:~:text=If%20you%20want%20to%20check,to%20update%20the%20local%20code.&text=Now%20if%20you%20go%20back,that%20were%20added%20to%20it.
+    
+    Use to git pull the submodule changes 
 
+    ```
+        $ git submodule foreach git pull origin main:main
+
+    ```
 
 
 
